@@ -23,38 +23,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "57A603B9-6CB2-47E3-8BAA-8627BACB925B"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
-            landmarkName = "HeatmapPostProcessor"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4EE01810-F7F1-450D-8A90-BD06CF39CF10"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "HeatmapPostProcessor"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "F4CCD95B-0021-4F7B-BB6F-7D6AE73F96CE"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -81,86 +49,6 @@
             startingLineNumber = "178"
             endingLineNumber = "178"
             landmarkName = "videoCapture(_:didCaptureVideoFrame:timestamp:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7877E3FB-6A3C-49D5-B7FB-27C4ED23D726"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "142"
-            endingLineNumber = "142"
-            landmarkName = "convertToPredictedPoints(from:isFlipped:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "7877E3FB-6A3C-49D5-B7FB-27C4ED23D726 - bdd9b7e1bbdfc681"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "PoseEstimation_CoreML.HeatmapPostProcessor.convertTo2DArrayOpenPose(from: __C.MLMultiArray) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Double&gt;&gt;"
-                  moduleName = "PoseEstimation-CoreML"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mac/Desktop/Parallel_Final_Proj/ref/PoseEstimation-CoreML-old/PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "168"
-                  endingLineNumber = "168"
-                  offsetFromSymbolStart = "2972">
-               </Location>
-               <Location
-                  uuid = "7877E3FB-6A3C-49D5-B7FB-27C4ED23D726 - ccdc2bec55b73af9"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Array&lt;Swift.Double&gt;) -&gt; Swift.Array&lt;Swift.Double&gt; in PoseEstimation_CoreML.HeatmapPostProcessor.convertTo2DArrayOpenPose(from: __C.MLMultiArray) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Double&gt;&gt;"
-                  moduleName = "PoseEstimation-CoreML"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/mac/Desktop/Parallel_Final_Proj/ref/PoseEstimation-CoreML-old/PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "169"
-                  endingLineNumber = "169"
-                  offsetFromSymbolStart = "36">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "ADBBCD66-0502-4FDE-9797-6C2E54C0E31D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "142"
-            endingLineNumber = "142"
-            landmarkName = "convertToPredictedPoints(from:isFlipped:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DA4E4F7B-6552-440A-81C2-24776A95ECC2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PoseEstimation-CoreML/Common/HeatmapPostProcessor.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "convertToPredictedPoints(from:isFlipped:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
